@@ -1,5 +1,3 @@
-# Term Deposit Marketing
-
 ## What is the code about?
 ### Using the given data set; 
 - Predicting if a customer will subscribe to a term deposit with Random Forest Classifier
